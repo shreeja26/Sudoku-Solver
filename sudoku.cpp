@@ -1,5 +1,3 @@
-// A Backtracking program in
-// C++ to solve Sudoku problem
 #include <bits/stdc++.h>
 using namespace std;
 
