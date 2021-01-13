@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku-Solver Using Backtracking Approach
 # Description
 * It is a sudoku solver program.
 * It solves the sudoku entered by the user of 9X9 matrix.
