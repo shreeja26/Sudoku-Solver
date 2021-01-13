@@ -9,7 +9,6 @@
 * i3 or higher
 * 40 GB space
 * Windows, Mac, Linux
-* Desire to learn new.
 
 # My PC Specs
 * i5-8th gen
